@@ -1,1 +1,5 @@
-pyTelegramBotAPI==4.21.0
+aiogram==3.3.0
+python-dotenv==1.0.0
+flask==3.0.0
+aiohttp==3.9.0
+pydantic==2.5.0
